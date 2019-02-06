@@ -13,4 +13,9 @@ Calculating:
 - get the timestamp (UTC) from the device.
 - calculate the decimal time with the timestamp. (formular available).
 
+Minimum:
+- Android 4
+- iPhone ???
+- ...
+
 Help needed. I can not program apps widgets.
